@@ -1,2 +1,2 @@
 # odin-recipes
-This repository was created to complete the "Project: Recipes" activity of the Fundamentals course on the Odin Project page.
+This repository was created to complete the "Project: HTML Recipes" activity of Fundamentals course on the "The Odin Project" page.
